@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hadss4&hide_title=true&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true)](https://github-stats-extended.vercel.app/api?username=hadss4&hide_title=true&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hadss4&langs_count=10&theme=jolly&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=hadss4&langs_count=10&theme=jolly&hide_border=true)
+
 <!--
 **hadss4/hadss4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
