@@ -1,12 +1,30 @@
-## Hi there 👋
+- She/her !
+- Chicken lover <3
+- Anti AI 🚫
 
-### Skills and Techs
-![Skills and Techs](https://skillicons.dev/icons?i=html,css,bootstrap,python,javascript,c,cpp&theme=dark)
+## Skills and Techs
+![Skills and Techs](https://skillicons.dev/icons?i=html,css,bootstrap,python,javascript,c,cpp,git,github&theme=dark)
 
-### Stats
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hadss4&hide_title=true&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true)
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hadss4&langs_count=10&theme=jolly&hide_border=true)
-![GitHub Stats](https://github-readme-streak-stats-mu-one-99.vercel.app/?user=hadss4&theme=jolly&hide_border=true)
+## Stats
+
+<table style="display:flex; flex-direction:row;">
+  <tr>
+    <td valign="top" colspan="1">
+      <img width="430" src="https://github-stats-extended.vercel.app/api?username=hadss4&hide_title=true&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true">
+      <br>
+      <img width="430" src="https://github-readme-streak-stats-mu-one-99.vercel.app/?user=hadss4&theme=jolly&hide_border=true">
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" colspan="1">
+      <img width="260" src="https://github-stats-extended.vercel.app/api/top-langs?username=hadss4&langs_count=10&theme=jolly&hide_border=true">
+    </td>
+  </tr>
+</table>
+
+
+
 
 <!--
 **hadss4/hadss4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
