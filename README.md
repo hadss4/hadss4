@@ -2,28 +2,36 @@
 - Chicken lover <3
 - Anti AI 🚫
 
-## Skills and Techs
-![Skills and Techs](https://skillicons.dev/icons?i=html,css,bootstrap,python,javascript,c,cpp,git,github&theme=dark)
+## Tech Stack
+![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,python,javascript,c,cpp,git,github&theme=dark)
 
-## Stats
-
-<table style="display:flex; flex-direction:row;">
+<table>
   <tr>
-    <td valign="top" colspan="1">
-      <img width="430" src="https://github-stats-extended.vercel.app/api?username=hadss4&hide_title=true&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true">
-      <br>
-      <img width="430" src="https://github-readme-streak-stats-mu-one-99.vercel.app/?user=hadss4&theme=jolly&hide_border=true">
-    </td>
-  </tr>
-  
-  <tr>
-    <td valign="top" colspan="1">
-      <img width="260" src="https://github-stats-extended.vercel.app/api/top-langs?username=hadss4&langs_count=10&theme=jolly&hide_border=true">
-    </td>
+    <td>HTML5</td>
+    <td>CSS</td>
+    <td>Bootstrap</td>
+    <td>Python</td>
+    <td>Javascript</td>
+    <td>C</td>
+    <td>C++</td>
+    <td>Git</td>
+    <td>Github</td>
   </tr>
 </table>
 
+## Github Stats
 
+<div style="align:center;">
+  <img width="430" src="https://github-stats-extended.vercel.app/api?username=hadss4&hide_title=true&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true">
+</div>
+
+<div style="align:center;">
+  <img width="430" src="https://github-readme-streak-stats-mu-one-99.vercel.app/?user=hadss4&theme=jolly&hide_border=true">
+</div>
+
+<div style="align:center;">
+  <img width="260" src="https://github-stats-extended.vercel.app/api/top-langs?username=hadss4&langs_count=10&theme=jolly&hide_border=true">
+</div>
 
 
 <!--
